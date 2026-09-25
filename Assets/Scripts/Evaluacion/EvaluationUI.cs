@@ -9,9 +9,11 @@ public class EvaluationUI : MonoBehaviour
     public GameObject resultPanel;
     public TMP_Text statusCarrilText;
     public TMP_Text statusSemaforoText;
+    public TMP_Text statusVelocidadText;
 
     private bool infraccionCarril = false;
     private bool infraccionSemaforo = false;
+    private bool infraccionVelocidad = false;
 
     private void Awake()
     {
@@ -29,23 +31,35 @@ public class EvaluationUI : MonoBehaviour
         infraccionSemaforo = true;
     }
 
+    public void RegistrarInfraccionVelocidad()
+    {
+        infraccionVelocidad = true;
+    }
+
     public void MostrarResultado()
     {
         if (resultPanel != null)
             resultPanel.SetActive(true);
 
-        // Evaluacion de Carril
+        // Evaluación Carril
         if (statusCarrilText != null)
         {
             statusCarrilText.text = infraccionCarril ? "NO (✗)" : "SÍ (✓)";
             statusCarrilText.color = infraccionCarril ? Color.red : Color.green;
         }
 
-        // Evaluacion de Semaforo
+        // Evaluación Semáforo
         if (statusSemaforoText != null)
         {
             statusSemaforoText.text = infraccionSemaforo ? "NO (✗)" : "SÍ (✓)";
             statusSemaforoText.color = infraccionSemaforo ? Color.red : Color.green;
+        }
+
+        // Evaluación Velocidad
+        if (statusVelocidadText != null)
+        {
+            statusVelocidadText.text = infraccionVelocidad ? "NO (✗)" : "SÍ (✓)";
+            statusVelocidadText.color = infraccionVelocidad ? Color.red : Color.green;
         }
     }
 }
