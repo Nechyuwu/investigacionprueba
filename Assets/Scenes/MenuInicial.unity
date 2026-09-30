@@ -1632,6 +1632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   menuPrincipal: {fileID: 211141948}
   instrucciones: {fileID: 512943939}
+  RegresarMenu: {fileID: 0}
   botonContinuar: {fileID: 585929491}
   tiempoDeEspera: 5
 --- !u!4 &2105685962

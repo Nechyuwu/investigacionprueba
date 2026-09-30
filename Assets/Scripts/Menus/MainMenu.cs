@@ -8,6 +8,7 @@ public class MenuManager : MonoBehaviour
     [Header("Paneles")]
     public GameObject menuPrincipal;
     public GameObject instrucciones;
+   
 
     [Header("Configuración de Espera")]
     public Button botonContinuar; // El botón dentro del panel de instrucciones
@@ -16,8 +17,10 @@ public class MenuManager : MonoBehaviour
     void Start()
     {
         // Aseguramos el estado inicial: Menú activo, instrucciones ocultas
+      
         menuPrincipal.SetActive(true);
         instrucciones.SetActive(false);
+
         
         // El botón de continuar debe iniciar desactivado
         if (botonContinuar != null)
@@ -49,8 +52,9 @@ public class MenuManager : MonoBehaviour
     public void IniciarSimulador()
     {
         // Cambia "NombreDeTuEscena" por el nombre exacto de la escena de tu simulador de manejo
-        SceneManager.LoadScene("pruebas"); 
+        SceneManager.LoadScene("Simulacion"); 
     }
+
 
     public void Salir()
     {
