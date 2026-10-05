@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: d1dcc8eb6e75dfa4abf515e26c99cfd9
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cancha
+    second: {fileID: 2800000, guid: 9759062a70c031842b3f3fe2af957c78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio W
+    second: {fileID: 2800000, guid: ca2959553791fac42b623c66519a24a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio a
+    second: {fileID: 2800000, guid: 3a5cbce6f385ff44ca70b89abf4d961b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio b
+    second: {fileID: 2800000, guid: 8487fde4525da7843a61d841c187776e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio b1
+    second: {fileID: 2800000, guid: c6885841a8c19874d852d96bdd080f2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio c
+    second: {fileID: 2800000, guid: 1d679956105a8d84fbe4a4b3484f19ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio c1
+    second: {fileID: 2800000, guid: 8919e6b6e3a692f46b80ad51fc94dd4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio d
+    second: {fileID: 2800000, guid: fa7726c024085cc42b2d328131e25cba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio d1
+    second: {fileID: 2800000, guid: c9dad6ecd33b190489234fb4989b780e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio e
+    second: {fileID: 2800000, guid: d37d957df0588584ea3fcbce0ec0100f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio e1
+    second: {fileID: 2800000, guid: dc2a2ad070775ab45975005159a94abd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio f
+    second: {fileID: 2800000, guid: 61456a2dca7326549ab352310621459c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio g
+    second: {fileID: 2800000, guid: 0af1bd9c7cce7a447bdfd5390110317a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio h
+    second: {fileID: 2800000, guid: f5a76e8aa0ed090498f6fe21cc86e3bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio h1
+    second: {fileID: 2800000, guid: df5a99ac2a749b34eb80742e04727e2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio i
+    second: {fileID: 2800000, guid: eda60cc706c371f4b8adb45a69cd4ed7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio i1
+    second: {fileID: 2800000, guid: 1d325044ce213ad4f85ebf47a29e609f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio j
+    second: {fileID: 2800000, guid: f8e991720dcc04e4798ec82f0fb4474a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio k1
+    second: {fileID: 2800000, guid: c65a76e65f9806948a7e7362baf2a482, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio l
+    second: {fileID: 2800000, guid: a7d0ab193b0bc3d45a4d61ef45a32727, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio m
+    second: {fileID: 2800000, guid: 5420c02b20443304781f275de2a59c7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio n
+    second: {fileID: 2800000, guid: e0978bbd1c2874549a9b2a3c077bc8b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio q
+    second: {fileID: 2800000, guid: 2c6eca3b4f8cfd141a9b591eefa660a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio t
+    second: {fileID: 2800000, guid: 144235966041f2148a6c5cbb527540fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio u
+    second: {fileID: 2800000, guid: 1076a431e80b48f41b1da1e1be3c68d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio v
+    second: {fileID: 2800000, guid: 802a5de6614415847b0cb694062e510a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio x
+    second: {fileID: 2800000, guid: 2c2e09ac10083484ea5a67c99e3570e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio y1
+    second: {fileID: 2800000, guid: 5659d12b64c736b4a8bd0516dc9482c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio y2
+    second: {fileID: 2800000, guid: 2ad8ea59297e5ec4bb471aa7133ab4f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio y3
+    second: {fileID: 2800000, guid: fe2eb8c3e8625c54d8e3544923a7aba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio y4
+    second: {fileID: 2800000, guid: 7c92778cd886e52478f3af8f0be60148, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio y5
+    second: {fileID: 2800000, guid: f16a7337a5213c2409d7cc95231be529, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: edificio z
+    second: {fileID: 2800000, guid: 02d09aa8177c52b4580d333169e9219b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frutiVida
+    second: {fileID: 2800000, guid: e80f4289198521145a532ce5a1adcbed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: padel
+    second: {fileID: 2800000, guid: 50a4c2127ae229a4d85e4a5c33409f94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: santander
+    second: {fileID: 2800000, guid: f0e615bf5084dbe44bb22d3c05270e57, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
