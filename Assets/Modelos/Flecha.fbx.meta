@@ -3,7 +3,12 @@ guid: 523247e174eccc04b9436aa371e23d9f
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flecha
+    second: {fileID: 2100000, guid: 0a2af6cc5a7fe7040a6b0735bde1e718, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
