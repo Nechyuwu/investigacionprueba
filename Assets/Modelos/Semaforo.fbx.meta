@@ -3,7 +3,17 @@ guid: 3ee4478e06d9c5844b97effac6c22ed2
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalposte
+    second: {fileID: 2100000, guid: f7bb0fe9e93fde7488b0352092cad73a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: semaforometal
+    second: {fileID: 2100000, guid: b972874918af29945b267c64e9ab2e12, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
